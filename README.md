@@ -1,2 +1,0 @@
-# TesteNibble
-X Solar Tech
